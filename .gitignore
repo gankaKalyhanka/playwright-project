@@ -1,0 +1,6 @@
+.idea/
+/output/
+*-report
+*-results
+/node_modules
+/allure-results

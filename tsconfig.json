@@ -1,0 +1,28 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"target": "es2018",
+		"lib": ["es2020", "DOM", "DOM.Iterable", "es2015.iterable"],
+		"outDir": "./dist",
+		"noImplicitAny": true,
+		"strictNullChecks": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": false,
+		"allowJs": true,
+		"strict": false,
+		"forceConsistentCasingInFileNames": true,
+		"isolatedModules": true,
+		"noEmitOnError": true
+	}
+	//	"paths": {
+	//		"@fullpage/*": ["pageObjects/paymentFLow/fullpage/*"],
+	//		"@iframe/*": ["pageObjects/paymentFLow/iframe/*"],
+	//		"@support/*": ["support/*"],
+	//	 }
+}

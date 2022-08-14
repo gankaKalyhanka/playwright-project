@@ -1,0 +1,8 @@
+.idea/
+/output/
+*-report
+*-results
+/node_modules
+.env
+.gitignore
+.prettierignore
